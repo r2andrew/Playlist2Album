@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfab\\Documents\\Coding\\Playlist2Album\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D46BA1-6F21-40EF-9695-46105CCACD08}|CSharpDll.csproj|c:\\users\\alfab\\documents\\coding\\playlist2album\\testcsharpdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D46BA1-6F21-40EF-9695-46105CCACD08}|CSharpDll.csproj|solutionrelative:testcsharpdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D46BA1-6F21-40EF-9695-46105CCACD08}|CSharpDll.csproj|C:\\Users\\alfab\\Documents\\Coding\\Playlist2Album\\musicbeeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D46BA1-6F21-40EF-9695-46105CCACD08}|CSharpDll.csproj|solutionrelative:musicbeeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCSharpDll.cs",
+              "DocumentMoniker": "C:\\Users\\alfab\\Documents\\Coding\\Playlist2Album\\TestCSharpDll.cs",
+              "RelativeDocumentMoniker": "TestCSharpDll.cs",
+              "ToolTip": "C:\\Users\\alfab\\Documents\\Coding\\Playlist2Album\\TestCSharpDll.cs",
+              "RelativeToolTip": "TestCSharpDll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:10:30.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicBeeInterface.cs",
+              "DocumentMoniker": "C:\\Users\\alfab\\Documents\\Coding\\Playlist2Album\\MusicBeeInterface.cs",
+              "RelativeDocumentMoniker": "MusicBeeInterface.cs",
+              "ToolTip": "C:\\Users\\alfab\\Documents\\Coding\\Playlist2Album\\MusicBeeInterface.cs",
+              "RelativeToolTip": "MusicBeeInterface.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgDAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:10:04.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
